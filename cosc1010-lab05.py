@@ -3,7 +3,7 @@
 # Submission Date 10/9/24
 # Lab 03 
 # Lab Section: 15
-# Sources, people worked with, help given to: N/A
+# Sources, people worked with, help given to: Gave help to Jed on the git add, commit, and push functions so he could download and submit it.
 
 
 max_temps = [
